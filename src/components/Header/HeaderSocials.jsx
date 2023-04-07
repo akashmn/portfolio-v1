@@ -8,9 +8,9 @@ const HeaderSocials = () => {
   return (
     <div>
         <div className="header__socials">
-            <a href="https://linkedin.com" target='_blank'><BsLinkedin /></a>
-            <a href="https://github.com" target='_blank'><BsGithub /></a>
-            <a href="https://instagram.com" target='_blank'><BsInstagram /></a>
+        <a href="https://instagram.com/akxxsh__?igshid=ZDdkNTZiNTM="><BsInstagram /></a>
+        <a href="https://github.com/akashmn"><BsGithub /></a>
+        <a href="https://www.linkedin.com/in/akash-m-nandan-87b13a237"><BsLinkedin /></a>
         </div>
     </div>
   )

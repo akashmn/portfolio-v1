@@ -80,6 +80,9 @@
         grid-template-columns: 1fr;
         gap: 0;
     }
+    #about{
+        padding-bottom: 4rem;
+    }
 
     .about__me{
         width: 50%;

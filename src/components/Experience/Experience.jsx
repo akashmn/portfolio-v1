@@ -59,30 +59,30 @@ const Experience = () => {
 
         {/* ############## End of Frontend details ##################### */}
         
-        {/*<div className="experience__backend">
+        <div className="experience__backend">
         <h3>Backend Development</h3>
           <div className="experience__content">
-            <article className='experience__details'>
+            {/* <article className='experience__details'>
               <BsPatchCheckFill />
               <div>
               <h4>Node JS</h4>
               <small className='text-light'>Experienced</small>
               </div>
-            </article>
-            <article className='experience__details'>
+            </article> */}
+            {/* <article className='experience__details'>
               <BsPatchCheckFill />
               <div>
               <h4>MongoDB</h4>
               <small className='text-light'>Intermediate</small>
               </div>
-            </article>
-            <article className='experience__details'>
+            </article> */}
+            {/* <article className='experience__details'>
               <BsPatchCheckFill />
               <div>
               <h4>PHP</h4>
               <small className='text-light'>Intermediate</small>
               </div>
-            </article>
+            </article> */}
             <article className='experience__details'>
               <BsPatchCheckFill />
               <div>
@@ -94,18 +94,39 @@ const Experience = () => {
               <BsPatchCheckFill />
               <div>
               <h4>Django</h4>
-              <small className='text-light'>Intermediate</small>
+              <small className='text-light'>Beginner</small>
               </div>
             </article>
               <article className='experience__details'>
               <BsPatchCheckFill />
               <div>
               <h4>MySQL</h4>
+              <small className='text-light'>Intermediate</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <BsPatchCheckFill />
+              <div>
+              <h4>Rest Framework</h4>
               <small className='text-light'>Beginner</small>
               </div>
             </article>
+            <article className='experience__details'>
+              <BsPatchCheckFill />
+              <div>
+              <h4>Sanity</h4>
+              <small className='text-light'>Intermediate</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <BsPatchCheckFill />
+              <div>
+              <h4>Firebase</h4>
+              <small className='text-light'>Intermediate</small>
+              </div>
+            </article>
         </div>
-        </div>*/}
+        </div>
       </div>
     </section>
   )
